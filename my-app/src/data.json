@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "image": "/Images/bowser.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "Images/fish.jpg",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "Images/flower.jpg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "Images/images.jpg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "Images/luigi.jpg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "Images/mario.jpg",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "Images/princess.jpg",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "Images/princessDaisy.jpg",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "Images/rosalina.jpg",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "Images/toad.jpg",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "Images/turtlle.jpg",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "Images/yoshi.jpg",
+      "clicked": false
+    }
+  ]
+  
